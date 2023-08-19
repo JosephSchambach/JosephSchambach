@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JosephSchambach
-- 👀 I’m interested in all things programming. I studied music growing up and that love of music has translated to a love of programming. 
-- 🌱 I’m currently earning a computer science degree from Thomas Edison State University. 
+- 👀 Learning and critical thinking are my super powers. What is life without learning new things or ideas?  
+- 🌱 I’m currently earning a data science degree from Thomas Edison State University. 
 
 <!---
 JosephSchambach/JosephSchambach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
