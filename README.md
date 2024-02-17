@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JosephSchambach
-- 👀 Learning and critical thinking are my super powers. What is life without learning new things or ideas?  
-- 🌱 I’m currently earning a data science degree from Thomas Edison State University. 
+- 👀 I love learning new skills, meeting new people, and when I am not developing my skills in data science and software and data engineering, I am probably spending time with my family or out trail running somewhere.  
+- 🌱 Bachelors of Science in Data Science and Analytics from Thomas Edison State University in Trenton, NJ
 
 <!---
 JosephSchambach/JosephSchambach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
